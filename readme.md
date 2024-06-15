@@ -11,10 +11,18 @@ This is a curated list of awesome Equinox JAX projects, and other resources. Con
 
 - [Models and Projects](#models-and-projects)
 - [Community](#community)
-
+- [Examples](#examples)
 <a name="libraries" />
 
+## Examples
+Official examples can be found in the 
+
 ## Models and Projects
+Models:
+- [mistral_jax](https://github.com/AakashKumarNain/mistral_jax) - This is a port of Mistral-7B model in JAX  <img src="https://img.shields.io/github/stars/AakashKumarNain/mistral_jax?style=social" align="center">
+
+Projects and Packages:
+- [eqxvision](https://github.com/paganpasta/eqxvision) - A Python package of computer vision models for the Equinox ecosystem.  <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 
 
 <!--lint enable awesome-list-item-->
