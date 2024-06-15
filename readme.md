@@ -22,6 +22,8 @@ Models:
 - [mistral_jax](https://github.com/AakashKumarNain/mistral_jax) - This is a port of Mistral-7B model in JAX  <img src="https://img.shields.io/github/stars/AakashKumarNain/mistral_jax?style=social" align="center">
 
 Projects and Packages:
+- [levanter](https://github.com/stanford-crfm/levanter) - Legible, Scalable, Reproducible Foundation Models with Named Tensors and Jax  <img src="https://img.shields.io/github/stars/stanford-crfm/levanter?style=social" align="center">
+
 - [eqxvision](https://github.com/paganpasta/eqxvision) - A Python package of computer vision models for the Equinox ecosystem.  <img src="https://img.shields.io/github/stars/paganpasta/eqxvision?style=social" align="center">
 
 
