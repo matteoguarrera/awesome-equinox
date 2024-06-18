@@ -14,10 +14,13 @@ This is a curated list of awesome Equinox JAX projects, and other resources. Con
 - [Examples](#examples)
 <a name="libraries" />
 
+
 ## Examples
 Official examples can be found in the 
 
+
 ## Models and Projects
+
 Models:
 - [PaLM-jax](https://github.com/lucidrains/PaLM-jax) - Implementation of the specific Transformer architecture from PaLM - Scaling Language Modeling with Pathways - in Jax (Equinox framework) <img src="https://img.shields.io/github/stars/lucidrains/PaLM-jax?style=social" align="center">
 
@@ -44,6 +47,16 @@ Projects and Packages:
 - [flowMC](https://github.com/kazewong/flowMC) - Normalizing-flow enhanced sampling package for probabilistic inference in Jax  <img src="https://img.shields.io/github/stars/kazewong/flowMC?style=social" align="center">
 
 - [flowjax](https://github.com/danielward27/flowjax) - FlowJax: Distributions and Normalizing Flows in Jax  <img src="https://img.shields.io/github/stars/danielward27/flowjax?style=social" align="center">
+
+- [traceax](https://github.com/mancusolab/traceax) - Traceax:  Stochastic trace estimation using JAX   <img src="https://img.shields.io/github/stars/mancusolab/traceax?style=social" align="center">
+
+- [galax](https://github.com/GalacticDynamics/galax) - Galactic and Gravitational Dynamics in Python (+ GPU and autodiff)  <img src="https://img.shields.io/github/stars/GalacticDynamics/galax?style=social" align="center">
+
+- [coordinax](https://github.com/GalacticDynamics/coordinax) - Coordinates in JAX <img src="https://img.shields.io/github/stars/GalacticDynamics/coordinax?style=social" align="center">
+
+- [unxt](https://github.com/GalacticDynamics/unxt) - Unitful Quantities in JAX  <img src="https://img.shields.io/github/stars/GalacticDynamics/unxt?style=social" align="center">
+
+
 
 <!--lint enable awesome-list-item-->
 
