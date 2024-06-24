@@ -56,6 +56,7 @@ Projects and Packages:
 
 - [unxt](https://github.com/GalacticDynamics/unxt) - Unitful Quantities in JAX  <img src="https://img.shields.io/github/stars/GalacticDynamics/unxt?style=social" align="center">
 
+- [statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree) - Transforming a PyTorch model into an JAX PyTree <img src="https://img.shields.io/github/stars/Artur-Galstyan/statedict2pytree?style=social" align="center">
 
 
 <!--lint enable awesome-list-item-->
